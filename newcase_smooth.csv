@@ -1,0 +1,232 @@
+iso_code,location,new_cases_smoothed
+AFG,Afghanistan,172.714
+OWID_AFR,Africa,9804.286
+ALB,Albania,110.857
+DZA,Algeria,225
+AND,Andorra,29.714
+AGO,Angola,189
+AIA,Anguilla,5
+ATG,Antigua and Barbuda,0.714
+ARG,Argentina,21141.857
+ARM,Armenia,531.143
+ABW,Aruba,18.286
+OWID_ASI,Asia,491838.429
+AUS,Australia,23
+AUT,Austria,1933
+AZE,Azerbaijan,1265.286
+BHS,Bahamas,68.143
+BHR,Bahrain,1094.571
+BGD,Bangladesh,2597.714
+BRB,Barbados,6.143
+BLR,Belarus,1186.857
+BEL,Belgium,3056.143
+BLZ,Belize,9.857
+BEN,Benin,14.429
+BMU,Bermuda,11.143
+BTN,Bhutan,12.571
+BOL,Bolivia,1334.571
+BES,Bonaire Sint Eustatius and Saba,194.714
+BIH,Bosnia and Herzegovina,532.571
+BWA,Botswana,154.143
+BRA,Brazil,59725.143
+VGB,British Virgin Islands,0
+BRN,Brunei,0.571
+BGR,Bulgaria,1106.571
+BFA,Burkina Faso,12.571
+BDI,Burundi,30.429
+KHM,Cambodia,633
+CMR,Cameroon,893.143
+CAN,Canada,7872.714
+CPV,Cape Verde,290.429
+CYM,Cayman Islands,1.714
+CAF,Central African Republic,26.714
+TCD,Chad,10.286
+CHL,Chile,5849.143
+CHN,China,14
+COL,Colombia,17210.286
+COM,Comoros,1.286
+COG,Congo,84.857
+CRI,Costa Rica,1747.286
+CIV,Cote d'Ivoire,42
+HRV,Croatia,1836.714
+CUB,Cuba,1043.429
+CUW,Curacao,17.143
+CYP,Cyprus,762.143
+CZE,Czechia,2123.429
+COD,Democratic Republic of Congo,58
+DNK,Denmark,719.286
+DJI,Djibouti,53.571
+DMA,Dominica,0.143
+DOM,Dominican Republic,416.714
+ECU,Ecuador,1690.714
+EGY,Egypt,1002
+SLV,El Salvador,104.286
+GNQ,Equatorial Guinea,19.286
+ERI,Eritrea,9.429
+EST,Estonia,350
+SWZ,Eswatini,2.571
+ETH,Ethiopia,1015.286
+OWID_EUR,Europe,130771.571
+OWID_EUN,European Union,104215.429
+FRO,Faeroe Islands,0.143
+FLK,Falkland Islands,0
+FJI,Fiji,4.571
+FIN,Finland,205.286
+FRA,France,24117.143
+PYF,French Polynesia,3.429
+GAB,Gabon,91.714
+GMB,Gambia,5.857
+GEO,Georgia,1238.857
+DEU,Germany,18943.857
+GHA,Ghana,96.143
+GIB,Gibraltar,0
+GRC,Greece,2098.857
+GRL,Greenland,0
+GRD,Grenada,0.143
+GTM,Guatemala,1024.286
+GGY,Guernsey,
+GIN,Guinea,51.714
+GNB,Guinea-Bissau,1.714
+GUY,Guyana,114.857
+HTI,Haiti,16
+OWID_HIC,High income,185909
+HND,Honduras,1067.286
+HKG,Hong Kong,7.429
+HUN,Hungary,2015.571
+ISL,Iceland,11.714
+IND,India,371040.714
+IDN,Indonesia,5155.429
+OWID_INT,International,0
+IRN,Iran,19874
+IRQ,Iraq,6439.714
+IRL,Ireland,461.857
+IMN,Isle of Man,0.571
+ISR,Israel,72.429
+ITA,Italy,12300
+JAM,Jamaica,130
+JPN,Japan,5033.857
+JEY,Jersey,
+JOR,Jordan,1664.857
+KAZ,Kazakhstan,2801
+KEN,Kenya,533.571
+OWID_KOS,Kosovo,131.143
+KWT,Kuwait,1409.429
+KGZ,Kyrgyzstan,307
+LAO,Laos,82
+LVA,Latvia,630.714
+LBN,Lebanon,1127.571
+LSO,Lesotho,1.143
+LBR,Liberia,1.857
+LBY,Libya,393.714
+LIE,Liechtenstein,9.429
+LTU,Lithuania,1161.857
+OWID_LIC,Low income,2242.143
+OWID_LMC,Lower middle income,438323
+LUX,Luxembourg,171.143
+MAC,Macao,0
+MDG,Madagascar,290.571
+MWI,Malawi,12
+MYS,Malaysia,3048.857
+MDV,Maldives,373.714
+MLI,Mali,48
+MLT,Malta,22.571
+MHL,Marshall Islands,0
+MRT,Mauritania,27
+MUS,Mauritius,0
+MEX,Mexico,3006
+FSM,Micronesia (country),0
+MDA,Moldova,323.143
+MCO,Monaco,4
+MNG,Mongolia,1152.286
+MNE,Montenegro,145.429
+MSR,Montserrat,0
+MAR,Morocco,360.714
+MOZ,Mozambique,46
+MMR,Myanmar,18.143
+NAM,Namibia,140.429
+NRU,Nauru,
+NPL,Nepal,4543.714
+NLD,Netherlands,6641.857
+NCL,New Caledonia,0
+NZL,New Zealand,2.429
+NIC,Nicaragua,9
+NER,Niger,10.143
+NGA,Nigeria,60.857
+OWID_NAM,North America,67355.286
+MKD,North Macedonia,329.571
+OWID_CYN,Northern Cyprus,
+NOR,Norway,409.857
+OWID_OCE,Oceania,107.857
+OMN,Oman,1139.286
+PAK,Pakistan,4900.857
+PSE,Palestine,886.143
+PAN,Panama,306.857
+PNG,Papua New Guinea,73.857
+PRY,Paraguay,2246.714
+PER,Peru,6470.714
+PHL,Philippines,8181.857
+POL,Poland,6712.143
+PRT,Portugal,426.143
+QAT,Qatar,686.571
+ROU,Romania,1692.857
+RUS,Russia,8559.143
+RWA,Rwanda,98.571
+SHN,Saint Helena,0
+KNA,Saint Kitts and Nevis,0.143
+LCA,Saint Lucia,13.857
+SPM,Saint Pierre and Miquelon,0
+VCT,Saint Vincent and the Grenadines,4.857
+WSM,Samoa,0
+SMR,San Marino,2.714
+STP,Sao Tome and Principe,0.714
+SAU,Saudi Arabia,1021.143
+SEN,Senegal,43.714
+SRB,Serbia,1851.286
+SYC,Seychelles,135.714
+SLE,Sierra Leone,1.857
+SGP,Singapore,30.429
+SVK,Slovakia,1095.286
+SVN,Slovenia,670.857
+SLB,Solomon Islands,0
+SOM,Somalia,65.143
+ZAF,South Africa,1210.286
+OWID_SAM,South America,119692
+KOR,South Korea,621.857
+SSD,South Sudan,9.714
+ESP,Spain,7922.857
+LKA,Sri Lanka,1325.143
+SDN,Sudan,38.714
+SUR,Suriname,61.714
+SWE,Sweden,5037.286
+CHE,Switzerland,1923.571
+SYR,Syria,117
+TWN,Taiwan,5
+TJK,Tajikistan,0
+TZA,Tanzania,0
+THA,Thailand,2003.143
+TLS,Timor,76.714
+TGO,Togo,29.286
+TON,Tonga,
+TTO,Trinidad and Tobago,226.429
+TUN,Tunisia,1737.429
+TUR,Turkey,36856
+TKM,Turkmenistan,
+TCA,Turks and Caicos Islands,2
+TUV,Tuvalu,
+UGA,Uganda,47.143
+UKR,Ukraine,8800
+ARE,United Arab Emirates,1860.429
+GBR,United Kingdom,2194.429
+USA,United States,50031
+OWID_UMC,Upper middle income,192895
+URY,Uruguay,2654.571
+UZB,Uzbekistan,367.286
+VUT,Vanuatu,0
+VAT,Vatican,0
+VEN,Venezuela,1191.714
+VNM,Vietnam,15.571
+WLF,Wallis and Futuna,0.571
+OWID_WRL,World,819569.429
+YEM,Yemen,31.429
+ZMB,Zambia,50.429
+ZWE,Zimbabwe,28
