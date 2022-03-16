@@ -1,0 +1,224 @@
+iso_code,location,total_deaths
+AFG,Afghanistan,2001
+OWID_AFR,Africa,57418
+ALB,Albania,1040
+DZA,Algeria,2631
+AND,Andorra,79
+AGO,Angola,379
+AIA,Anguilla,0
+ATG,Antigua and Barbuda,5
+ARG,Argentina,41365
+ARM,Armenia,2556
+ABW,Aruba,47
+OWID_ASI,Asia,317201
+AUS,Australia,908
+AUT,Austria,4764
+AZE,Azerbaijan,2050
+BHS,Bahamas,164
+BHR,Bahrain,349
+BGD,Bangladesh,7156
+BRB,Barbados,7
+BLR,Belarus,1291
+BEL,Belgium,18278
+BLZ,Belize,212
+BEN,Benin,44
+BMU,Bermuda,9
+BTN,Bhutan,0
+BOL,Bolivia,9029
+BES,Bonaire Sint Eustatius and Saba,3
+BIH,Bosnia and Herzegovina,3511
+BWA,Botswana,38
+BRA,Brazil,183924
+VGB,British Virgin Islands,1
+BRN,Brunei,3
+BGR,Bulgaria,6196
+BFA,Burkina Faso,73
+BDI,Burundi,1
+KHM,Cambodia,0
+CMR,Cameroon,445
+CAN,Canada,14582
+CPV,Cape Verde,110
+CYM,Cayman Islands,2
+CAF,Central African Republic,63
+TCD,Chad,102
+CHL,Chile,15959
+CHN,China,4634
+COL,Colombia,39560
+COM,Comoros,7
+COG,Congo,100
+CRI,Costa Rica,1967
+CIV,Cote d'Ivoire,133
+HRV,Croatia,2870
+CUB,Cuba,137
+CUW,Curacao,11
+CYP,Cyprus,85
+CZE,Czechia,9882
+COD,Democratic Republic of Congo,364
+DNK,Denmark,975
+DJI,Djibouti,61
+DMA,Dominica,0
+DOM,Dominican Republic,2372
+ECU,Ecuador,13915
+EGY,Egypt,6990
+SLV,El Salvador,1219
+GNQ,Equatorial Guinea,85
+ERI,Eritrea,0
+EST,Estonia,160
+SWZ,Eswatini,135
+ETH,Ethiopia,1818
+OWID_EUR,Europe,475265
+OWID_EUN,European Union,323207
+FRO,Faeroe Islands,0
+FLK,Falkland Islands,0
+FJI,Fiji,2
+FIN,Finland,543
+FRA,France,59373
+PYF,French Polynesia,98
+GAB,Gabon,63
+GMB,Gambia,123
+GEO,Georgia,1922
+DEU,Germany,24273
+GHA,Ghana,327
+GIB,Gibraltar,6
+GRC,Greece,3870
+GRL,Greenland,0
+GRD,Grenada,0
+GTM,Guatemala,4510
+GIN,Guinea,80
+GNB,Guinea-Bissau,44
+GUY,Guyana,158
+HTI,Haiti,234
+OWID_HIC,High income,736054
+HND,Honduras,3013
+HKG,Hong Kong,123
+HUN,Hungary,7381
+ISL,Iceland,28
+IND,India,144451
+IDN,Indonesia,19248
+OWID_INT,International,15
+IRN,Iran,52883
+IRQ,Iraq,12636
+IRL,Ireland,2140
+IMN,Isle of Man,25
+ISR,Israel,3034
+ITA,Italy,66537
+JAM,Jamaica,276
+JPN,Japan,2755
+JOR,Jordan,3465
+KAZ,Kazakhstan,2609
+KEN,Kenya,1614
+OWID_KOS,Kosovo,1225
+KWT,Kuwait,913
+KGZ,Kyrgyzstan,1317
+LAO,Laos,0
+LVA,Latvia,382
+LBN,Lebanon,1234
+LSO,Lesotho,46
+LBR,Liberia,83
+LBY,Libya,1324
+LIE,Liechtenstein,22
+LTU,Lithuania,1137
+OWID_LIC,Low income,8784
+OWID_LMC,Lower middle income,305477
+LUX,Luxembourg,421
+MAC,Macao,
+MDG,Madagascar,259
+MWI,Malawi,187
+MYS,Malaysia,429
+MDV,Maldives,48
+MLI,Mali,209
+MLT,Malta,180
+MHL,Marshall Islands,0
+MRT,Mauritania,244
+MUS,Mauritius,10
+MEX,Mexico,115769
+MDA,Moldova,2650
+MCO,Monaco,3
+MNG,Mongolia,
+MNE,Montenegro,610
+MSR,Montserrat,1
+MAR,Morocco,6749
+MOZ,Mozambique,145
+MMR,Myanmar,2346
+NAM,Namibia,164
+NPL,Nepal,1743
+NLD,Netherlands,10272
+NCL,New Caledonia,0
+NZL,New Zealand,25
+NIC,Nicaragua,163
+NER,Niger,82
+NGA,Nigeria,1200
+OWID_NAM,North America,460110
+MKD,North Macedonia,2194
+NOR,Norway,402
+OWID_OCE,Oceania,1041
+OMN,Oman,1480
+PAK,Pakistan,9080
+PSE,Palestine,1048
+PAN,Panama,3439
+PNG,Papua New Guinea,8
+PRY,Paraguay,2014
+PER,Peru,91123
+PHL,Philippines,8833
+POL,Poland,23914
+PRT,Portugal,5815
+QAT,Qatar,242
+ROU,Romania,13862
+RUS,Russia,47994
+RWA,Rwanda,57
+SHN,Saint Helena,
+KNA,Saint Kitts and Nevis,
+LCA,Saint Lucia,4
+SPM,Saint Pierre and Miquelon,
+VCT,Saint Vincent and the Grenadines,
+WSM,Samoa,
+SMR,San Marino,54
+STP,Sao Tome and Principe,17
+SAU,Saudi Arabia,6080
+SEN,Senegal,352
+SRB,Serbia,2482
+SYC,Seychelles,
+SLE,Sierra Leone,75
+SGP,Singapore,29
+SVK,Slovakia,1309
+SVN,Slovenia,2190
+SLB,Solomon Islands,
+SOM,Somalia,121
+ZAF,South Africa,23827
+OWID_SAM,South America,398236
+KOR,South Korea,634
+SSD,South Sudan,62
+ESP,Spain,48596
+LKA,Sri Lanka,160
+SDN,Sudan,1384
+SUR,Suriname,117
+SWE,Sweden,7802
+CHE,Switzerland,6560
+SYR,Syria,554
+TWN,Taiwan,7
+TJK,Tajikistan,89
+TZA,Tanzania,21
+THA,Thailand,60
+TLS,Timor,
+TGO,Togo,66
+TTO,Trinidad and Tobago,123
+TUN,Tunisia,3997
+TUR,Turkey,17121
+TCA,Turks and Caicos Islands,6
+UGA,Uganda,225
+UKR,Ukraine,16314
+ARE,United Arab Emirates,626
+GBR,United Kingdom,65568
+USA,United States,311834
+OWID_UMC,Upper middle income,658952
+URY,Uruguay,102
+UZB,Uzbekistan,612
+VUT,Vanuatu,
+VAT,Vatican,
+VEN,Venezuela,970
+VNM,Vietnam,35
+WLF,Wallis and Futuna,
+OWID_WRL,World,1709286
+YEM,Yemen,606
+ZMB,Zambia,369
+ZWE,Zimbabwe,313
